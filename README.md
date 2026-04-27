@@ -14,7 +14,7 @@ Website portfolio pribadi yang dibuat menggunakan React dan Vite.
 - Vite
 - CSS
 
-## Author
+# Author
 Michelle Hillary
 =======
 # portfolio-landing
